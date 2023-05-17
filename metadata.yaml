@@ -1,0 +1,43 @@
+_repo: Elizabeth-Montagu-the-queen-of-the-bluestockings-Volumes-1-and-2-b-Her-correspondence-from-17__70593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montagu, Mrs. (Elizabeth)
+    aliases:
+    - Montagu, Elizabeth Robinson
+    - Queen of the Bluestockings
+    - Bluestockings, Queen of the
+    - Robinson, Elizabeth
+    birthdate: 1720
+    deathdate: 1800
+    gutenberg_agent_id: '38372'
+    url: http://www.gutenberg.org/2009/agents/38372
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Montagu
+  editor:
+    agent_name: Climenson, Emily J. (Emily Jane)
+    alias: Climenson, Emily Jane
+    birthdate: 1844
+    deathdate: 1921
+    gutenberg_agent_id: '55810'
+    url: http://www.gutenberg.org/2009/agents/55810
+description: ''
+gutenberg_issued: '2023-04-18'
+identifiers:
+  gutenberg: '70593'
+language: en
+pgterms:marc905: 20210514103749climenson
+pgterms:marc906: '1906'
+pgterms:marc907: UK
+production_note: Fay Dunn and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUK :$bJohn Murray, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Montagu, Mrs. (Elizabeth), 1718-1800 -- Correspondence'
+- !lcc 'DA'
+- GITenberg
+title: 'Elizabeth Montagu, the queen of the bluestockings, Volumes 1 and 2 : $b Her
+  correspondence from 1720 to 1761'
+url: http://www.gutenberg.org/ebooks/70593
