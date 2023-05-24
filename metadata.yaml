@@ -1,5 +1,8 @@
 _repo: Elizabeth-Montagu-the-queen-of-the-bluestockings-Volumes-1-and-2-b-Her-correspondence-from-17__70593
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70593-h/images/cover-plain.jpg
 creator:
   author:
     agent_name: Montagu, Mrs. (Elizabeth)
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '55810'
     url: http://www.gutenberg.org/2009/agents/55810
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70593#Elizabeth-Montagu-the-queen-of-the-bluestockings-Volumes-1-and-2-b-Her-correspondence-from-17_
 gutenberg_issued: '2023-04-18'
 identifiers:
   gutenberg: '70593'
